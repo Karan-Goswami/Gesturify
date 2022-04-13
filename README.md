@@ -1,6 +1,6 @@
 # Gesturify
 
-# Library required to run the project:
+# Prerequisites:
 1. OpenCV
 2. Mediapipe
 3. Autopy
@@ -32,13 +32,13 @@ When done with prerequisites, run the ***MAIN.py*** file.
 - New camera window will open.
 - Use your index finger as a pointer. You can move your index finger to wherever you want on your screen just like your physical mouse.
 - In order to click, open etc. move your middle finger near to your index finger. This will trigger the clicking operation.
-- To exit keyboard window, press **Q**.
+- To exit keyboard window, press **q**.
 
 3. Virtual Volume Controller
 - New camera window will open.
 - To control your PC's volume, we can use thumb as one point and index finger as other.
 - As you increase the distance between these fingers, volume will increase and if you decrease the distance, volume will decrease.
-- To exit keyboard window, press **Q**.
+- To exit keyboard window, press **q**.
 
 # Developers
 
